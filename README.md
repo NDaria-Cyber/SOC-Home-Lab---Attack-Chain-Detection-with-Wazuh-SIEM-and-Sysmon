@@ -35,6 +35,8 @@ A full walkthrough of the attack simulation, Wazuh detections, Sysmon forensic a
 
 <a href=https://youtu.be/HJdtREMMGxU>Watch Demonstration Video.
 
+# Attack Scenario 
+
 
 
 
